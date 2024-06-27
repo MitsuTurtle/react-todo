@@ -1,3 +1,27 @@
+# 情報源
+
+https://www.udemy.com/course/echo-go-react-restapi/?couponCode=KEEPLEARNING
+https://github.com/GomaGoma676/echo-rest-api
+https://github.com/GomaGoma676/react-todo
+
+# ソースコード
+
+## バックエンド
+
+https://github.com/MitsuTurtle/go-rest-api
+
+## フロントエンド
+
+https://github.com/MitsuTurtle/react-todo
+
+# 開発環境の起動
+
+```
+npm start
+```
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
